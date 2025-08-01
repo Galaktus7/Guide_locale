@@ -1,20 +1,22 @@
-flamethrower.glossary: '⚔️|Огнемет:
+flamethrower.glossary: |
+  ⚔️|Огнемет/Ognemyot:
+  Hujum vaqti 100% lik ehtimol bilan raqibni yoqib yuboradi.
+bow.glossary: |
+  ⚔️|Лук/Kamon:
+  Siz raqibga olovli o'qlardan otib, uni 2 karra yoqib yuborishingiz mumkin.
+saw.glossary: '⚔️|Пиломет/Pilomyot:
 
-  С шансом 100% поджигает соперника при атаке.'
-bow.glossary: '⚔️|Лук:
+  Hujum vaqti 60% ehtimollik bilan raqibni jarohatlash mumkin, 
+  har bir jarohatlanish raqibga beriladigan zarbga +1 bonus beradi.'
+revolver.glossary: |
+  ⚔️|Револьвеp/Revolver:
+  Doimiy 3 zarbga ega qurol.
+pistol.glossary: |
+  ⚔️|Пистолет/Pistolet:
+  Qo'shimcha effektlarga ega bo'lmagan qurol.
+sawn_off_shotgun.glossary: "⚔️|Обрез/Miltiq:
 
-  Вы можете запустить в соперника огненную стрелу, поджигающую цель на 2.'
-saw.glossary: '⚔️|Пиломет:
-
-  При атаке имеется 60% шанс ранить соперника, увеличивая весь входящий по нему урон
-  от атак на 1 до конца игры.'
-revolver.glossary: '⚔️|Револьвеp:
-
-  Всегда имеет стабильный урон.'
-pistol.glossary: '⚔️|Пистолет:
-
-  Дальнобойное оружие без эффектов.'
-sawn_off_shotgun.glossary: '⚔️|Обрез:
+  Agar raqib yoningizda tursa (siz yoki u yaqinlashgan bo'lsa
 
   Если противник стоит рядом (вы или противник подошли), то обрез наносит +1 дополнительный
   урон.'
